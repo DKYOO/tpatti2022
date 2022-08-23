@@ -1,0 +1,16 @@
+PODS:
+  - tpatti2022 (0.1.0)
+
+DEPENDENCIES:
+  - tpatti2022 (from `../`)
+
+EXTERNAL SOURCES:
+  tpatti2022:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  tpatti2022: b38c3b6a77df4b177be3d9f14b00d78f39c68bd0
+
+PODFILE CHECKSUM: 8e6f0eb69180c17da25e6e12cbdb814e3a5ee39e
+
+COCOAPODS: 1.11.3

@@ -1,0 +1,6 @@
+framework module Pods_tpatti2022_Tests {
+  umbrella header "Pods-tpatti2022_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

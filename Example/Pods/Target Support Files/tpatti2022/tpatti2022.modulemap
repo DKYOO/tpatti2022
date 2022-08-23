@@ -1,0 +1,6 @@
+framework module tpatti2022 {
+  umbrella header "tpatti2022-umbrella.h"
+
+  export *
+  module * { export * }
+}
